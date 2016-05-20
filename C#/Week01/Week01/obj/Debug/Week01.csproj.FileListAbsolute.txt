@@ -1,0 +1,6 @@
+E:\課\C#\Test\Week01\Week01\Week01\bin\Debug\Week01.exe.config
+E:\課\C#\Test\Week01\Week01\Week01\bin\Debug\Week01.exe
+E:\課\C#\Test\Week01\Week01\Week01\bin\Debug\Week01.pdb
+E:\課\C#\Test\Week01\Week01\Week01\obj\Debug\Week01.csprojResolveAssemblyReference.cache
+E:\課\C#\Test\Week01\Week01\Week01\obj\Debug\Week01.exe
+E:\課\C#\Test\Week01\Week01\Week01\obj\Debug\Week01.pdb

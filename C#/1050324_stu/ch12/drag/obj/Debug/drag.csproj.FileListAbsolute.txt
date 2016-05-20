@@ -1,0 +1,21 @@
+C:\cs\ch12\drag\bin\Debug\drag.exe.config
+C:\cs\ch12\drag\bin\Debug\drag.exe
+C:\cs\ch12\drag\bin\Debug\drag.pdb
+C:\cs\ch12\drag\obj\Debug\drag.csprojResolveAssemblyReference.cache
+C:\cs\ch12\drag\obj\Debug\drag.Form1.resources
+C:\cs\ch12\drag\obj\Debug\drag.Properties.Resources.resources
+C:\cs\ch12\drag\obj\Debug\drag.csproj.GenerateResource.Cache
+C:\cs\ch12\drag\obj\Debug\drag.exe
+C:\cs\ch12\drag\obj\Debug\drag.pdb
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\drag\bin\Debug\drag.exe.config
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\drag\obj\Debug\drag.exe
+D:\00000- 松崗 松崗  Visual C# 2013 學習經典 排版(一校搞)\四校稿 - C#2013 學習經典完稿\松崗- C# 2013學習經典範例程式\ch12\drag\obj\Debug\drag.pdb
+E:\課\C#\1050324_stu\ch12\drag\bin\Debug\drag.exe.config
+E:\課\C#\1050324_stu\ch12\drag\obj\Debug\drag.exe
+E:\課\C#\1050324_stu\ch12\drag\obj\Debug\drag.pdb
+E:\課\C#\1050324_stu\ch12\drag\bin\Debug\drag.exe
+E:\課\C#\1050324_stu\ch12\drag\bin\Debug\drag.pdb
+E:\課\C#\1050324_stu\ch12\drag\obj\Debug\drag.csprojResolveAssemblyReference.cache
+E:\課\C#\1050324_stu\ch12\drag\obj\Debug\drag.Form1.resources
+E:\課\C#\1050324_stu\ch12\drag\obj\Debug\drag.Properties.Resources.resources
+E:\課\C#\1050324_stu\ch12\drag\obj\Debug\drag.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\bin\Debug\WindowsFormEventExample.exe.config
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\bin\Debug\WindowsFormEventExample.exe
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\bin\Debug\WindowsFormEventExample.pdb
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.csprojResolveAssemblyReference.cache
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.Form1.resources
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.Properties.Resources.resources
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.csproj.GenerateResource.Cache
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.exe
+c:\users\michaelclow\documents\visual studio 2012\Projects\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.pdb
+D:\ncku_school\開課課程\102\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\bin\Debug\WindowsFormEventExample.exe.config
+D:\ncku_school\開課課程\102\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.exe
+D:\ncku_school\開課課程\102\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.pdb
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\bin\Debug\WindowsFormEventExample.exe.config
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.exe
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.pdb
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\bin\Debug\WindowsFormEventExample.exe
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\bin\Debug\WindowsFormEventExample.pdb
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.csprojResolveAssemblyReference.cache
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.Form1.resources
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.Properties.Resources.resources
+D:\ncku_school\開課課程\103_下學期\上課講義\1030516\WindowsFormEventExample\WindowsFormEventExample\obj\Debug\WindowsFormEventExample.csproj.GenerateResource.Cache

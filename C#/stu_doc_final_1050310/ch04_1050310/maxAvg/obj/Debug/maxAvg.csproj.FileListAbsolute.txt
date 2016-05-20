@@ -1,0 +1,5 @@
+c:\cs2013\ch03\maxAvg\bin\Debug\maxAvg.exe.config
+c:\cs2013\ch03\maxAvg\bin\Debug\maxAvg.exe
+c:\cs2013\ch03\maxAvg\bin\Debug\maxAvg.pdb
+c:\cs2013\ch03\maxAvg\obj\Debug\maxAvg.exe
+c:\cs2013\ch03\maxAvg\obj\Debug\maxAvg.pdb

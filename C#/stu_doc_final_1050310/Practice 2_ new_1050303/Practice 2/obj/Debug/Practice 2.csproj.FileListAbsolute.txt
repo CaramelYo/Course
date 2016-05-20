@@ -1,0 +1,18 @@
+C:\Users\banana\Desktop\week2\Practice 2\Practice 2\bin\Debug\Practice 2.exe.config
+C:\Users\banana\Desktop\week2\Practice 2\Practice 2\obj\Debug\Practice 2.csprojResolveAssemblyReference.cache
+C:\Users\banana\Desktop\week2\Practice 2\Practice 2\bin\Debug\Practice 2.exe
+C:\Users\banana\Desktop\week2\Practice 2\Practice 2\bin\Debug\Practice 2.pdb
+C:\Users\banana\Desktop\week2\Practice 2\Practice 2\obj\Debug\Practice 2.exe
+C:\Users\banana\Desktop\week2\Practice 2\Practice 2\obj\Debug\Practice 2.pdb
+E:\NCKU 論文&助教\105下 C#\week2\Practice 2_ new\Practice 2\bin\Debug\Practice 2.exe.config
+E:\NCKU 論文&助教\105下 C#\week2\Practice 2_ new\Practice 2\obj\Debug\Practice 2.exe
+E:\NCKU 論文&助教\105下 C#\week2\Practice 2_ new\Practice 2\obj\Debug\Practice 2.pdb
+E:\NCKU 論文&助教\105下 C#\week2\Practice 2_ new\Practice 2\bin\Debug\Practice 2.exe
+E:\NCKU 論文&助教\105下 C#\week2\Practice 2_ new\Practice 2\bin\Debug\Practice 2.pdb
+E:\NCKU 論文&助教\105下 C#\week2\Practice 2_ new\Practice 2\obj\Debug\Practice 2.csprojResolveAssemblyReference.cache
+E:\NCKU 論文&助教\105下 C#\C# week2\week2\Practice 2_ new\Practice 2\bin\Debug\Practice 2.exe.config
+E:\NCKU 論文&助教\105下 C#\C# week2\week2\Practice 2_ new\Practice 2\obj\Debug\Practice 2.exe
+E:\NCKU 論文&助教\105下 C#\C# week2\week2\Practice 2_ new\Practice 2\obj\Debug\Practice 2.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\week2\Practice 2_ new\Practice 2\bin\Debug\Practice 2.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\week2\Practice 2_ new\Practice 2\obj\Debug\Practice 2.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050303\week2\Practice 2_ new\Practice 2\obj\Debug\Practice 2.pdb

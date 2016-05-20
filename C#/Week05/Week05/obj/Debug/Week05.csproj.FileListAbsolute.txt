@@ -1,0 +1,12 @@
+E:\課\C#\Week05\Week05\bin\Debug\Week05.exe.config
+E:\課\C#\Week05\Week05\obj\Debug\Week05.csprojResolveAssemblyReference.cache
+E:\課\C#\Week05\Week05\obj\Debug\Week05.Form1.resources
+E:\課\C#\Week05\Week05\obj\Debug\Week05.Properties.Resources.resources
+E:\課\C#\Week05\Week05\obj\Debug\Week05.csproj.GenerateResource.Cache
+E:\課\C#\Week05\Week05\bin\Debug\Week05.exe
+E:\課\C#\Week05\Week05\bin\Debug\Week05.pdb
+E:\課\C#\Week05\Week05\obj\Debug\Week05.exe
+E:\課\C#\Week05\Week05\obj\Debug\Week05.pdb
+E:\Lesson\C#\Week05\Week05\bin\Debug\Week05.exe.config
+E:\Lesson\C#\Week05\Week05\obj\Debug\Week05.exe
+E:\Lesson\C#\Week05\Week05\obj\Debug\Week05.pdb

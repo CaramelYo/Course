@@ -1,0 +1,15 @@
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\bin\Debug\tooltip.exe.config
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\bin\Debug\tooltip.exe
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\bin\Debug\tooltip.pdb
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\obj\Debug\tooltip.csprojResolveAssemblyReference.cache
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\obj\Debug\tooltip.Form1.resources
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\obj\Debug\tooltip.Properties.Resources.resources
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\obj\Debug\tooltip.csproj.GenerateResource.Cache
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\obj\Debug\tooltip.exe
+C:\Users\banana\Desktop\tooltip\tooltip\tooltip\obj\Debug\tooltip.pdb
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050324\1050324_final\tooltip\tooltip\tooltip\bin\Debug\tooltip.exe.config
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050324\1050324_final\tooltip\tooltip\tooltip\obj\Debug\tooltip.exe
+D:\ncku_school\開課課程\104_下學期\上課簡報\1050324\1050324_final\tooltip\tooltip\tooltip\obj\Debug\tooltip.pdb
+E:\課\C#\1050324_stu\tooltip\tooltip\bin\Debug\tooltip.exe.config
+E:\課\C#\1050324_stu\tooltip\tooltip\obj\Debug\tooltip.exe
+E:\課\C#\1050324_stu\tooltip\tooltip\obj\Debug\tooltip.pdb

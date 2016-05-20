@@ -1,0 +1,6 @@
+C:\Users\banana\Desktop\week3\Practice_debug\Practice_debug\bin\Debug\Practice_debug.exe.config
+C:\Users\banana\Desktop\week3\Practice_debug\Practice_debug\bin\Debug\Practice_debug.exe
+C:\Users\banana\Desktop\week3\Practice_debug\Practice_debug\bin\Debug\Practice_debug.pdb
+C:\Users\banana\Desktop\week3\Practice_debug\Practice_debug\obj\Debug\Practice_debug.csprojResolveAssemblyReference.cache
+C:\Users\banana\Desktop\week3\Practice_debug\Practice_debug\obj\Debug\Practice_debug.exe
+C:\Users\banana\Desktop\week3\Practice_debug\Practice_debug\obj\Debug\Practice_debug.pdb

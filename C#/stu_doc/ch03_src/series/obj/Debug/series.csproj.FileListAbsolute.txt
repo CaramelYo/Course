@@ -1,0 +1,12 @@
+D:\C#2012\ch03\series\bin\Debug\series.exe.config
+D:\C#2012\ch03\series\bin\Debug\series.exe
+D:\C#2012\ch03\series\bin\Debug\series.pdb
+D:\C#2012\ch03\series\obj\Debug\series.csprojResolveAssemblyReference.cache
+D:\C#2012\ch03\series\obj\Debug\series.exe
+D:\C#2012\ch03\series\obj\Debug\series.pdb
+C:\C#2012\ch03\series\bin\Debug\series.exe.config
+C:\C#2012\ch03\series\obj\Debug\series.exe
+C:\C#2012\ch03\series\obj\Debug\series.pdb
+C:\C#2012\ch03\series\bin\Debug\series.exe
+C:\C#2012\ch03\series\bin\Debug\series.pdb
+C:\C#2012\ch03\series\obj\Debug\series.csprojResolveAssemblyReference.cache

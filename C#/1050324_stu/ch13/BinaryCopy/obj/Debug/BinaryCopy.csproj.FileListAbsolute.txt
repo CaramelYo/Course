@@ -1,0 +1,12 @@
+C:\cs2013\ch13\BinaryCopy\bin\Debug\BinaryCopy.exe.config
+C:\cs2013\ch13\BinaryCopy\bin\Debug\BinaryCopy.exe
+C:\cs2013\ch13\BinaryCopy\bin\Debug\BinaryCopy.pdb
+C:\cs2013\ch13\BinaryCopy\obj\Debug\BinaryCopy.csprojResolveAssemblyReference.cache
+C:\cs2013\ch13\BinaryCopy\obj\Debug\BinaryCopy.Form1.resources
+C:\cs2013\ch13\BinaryCopy\obj\Debug\BinaryCopy.Properties.Resources.resources
+C:\cs2013\ch13\BinaryCopy\obj\Debug\BinaryCopy.csproj.GenerateResource.Cache
+C:\cs2013\ch13\BinaryCopy\obj\Debug\BinaryCopy.exe
+C:\cs2013\ch13\BinaryCopy\obj\Debug\BinaryCopy.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\BinaryCopy\bin\Debug\BinaryCopy.exe.config
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\BinaryCopy\obj\Debug\BinaryCopy.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\BinaryCopy\obj\Debug\BinaryCopy.pdb

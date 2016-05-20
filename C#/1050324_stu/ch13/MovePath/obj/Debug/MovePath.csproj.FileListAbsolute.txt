@@ -1,0 +1,12 @@
+C:\cs2013\ch13\MovePath\bin\Debug\MovePath.exe.config
+C:\cs2013\ch13\MovePath\bin\Debug\MovePath.exe
+C:\cs2013\ch13\MovePath\bin\Debug\MovePath.pdb
+C:\cs2013\ch13\MovePath\obj\Debug\MovePath.csprojResolveAssemblyReference.cache
+C:\cs2013\ch13\MovePath\obj\Debug\MovePath.Form1.resources
+C:\cs2013\ch13\MovePath\obj\Debug\MovePath.Properties.Resources.resources
+C:\cs2013\ch13\MovePath\obj\Debug\MovePath.csproj.GenerateResource.Cache
+C:\cs2013\ch13\MovePath\obj\Debug\MovePath.exe
+C:\cs2013\ch13\MovePath\obj\Debug\MovePath.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\MovePath\bin\Debug\MovePath.exe.config
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\MovePath\obj\Debug\MovePath.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\MovePath\obj\Debug\MovePath.pdb

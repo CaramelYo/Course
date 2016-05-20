@@ -1,0 +1,12 @@
+C:\cs2013\ch13\WavPlayer\bin\Debug\WavPlayer.exe.config
+C:\cs2013\ch13\WavPlayer\bin\Debug\WavPlayer.exe
+C:\cs2013\ch13\WavPlayer\bin\Debug\WavPlayer.pdb
+C:\cs2013\ch13\WavPlayer\obj\Debug\WavPlayer.csprojResolveAssemblyReference.cache
+C:\cs2013\ch13\WavPlayer\obj\Debug\WavPlayer.Form1.resources
+C:\cs2013\ch13\WavPlayer\obj\Debug\WavPlayer.Properties.Resources.resources
+C:\cs2013\ch13\WavPlayer\obj\Debug\WavPlayer.csproj.GenerateResource.Cache
+C:\cs2013\ch13\WavPlayer\obj\Debug\WavPlayer.exe
+C:\cs2013\ch13\WavPlayer\obj\Debug\WavPlayer.pdb
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\WavPlayer\bin\Debug\WavPlayer.exe.config
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\WavPlayer\obj\Debug\WavPlayer.exe
+D:\Do\do_VC#\C#2013學習經典(松崗)\三校\ch13-1027\ch13範例\WavPlayer\obj\Debug\WavPlayer.pdb

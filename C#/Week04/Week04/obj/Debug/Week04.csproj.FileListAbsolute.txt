@@ -1,0 +1,9 @@
+E:\課\C#\Week04\Week04\bin\Debug\Week04.exe.config
+E:\課\C#\Week04\Week04\bin\Debug\Week04.exe
+E:\課\C#\Week04\Week04\bin\Debug\Week04.pdb
+E:\課\C#\Week04\Week04\obj\Debug\Week04.csprojResolveAssemblyReference.cache
+E:\課\C#\Week04\Week04\obj\Debug\Week04.Form1.resources
+E:\課\C#\Week04\Week04\obj\Debug\Week04.Properties.Resources.resources
+E:\課\C#\Week04\Week04\obj\Debug\Week04.csproj.GenerateResource.Cache
+E:\課\C#\Week04\Week04\obj\Debug\Week04.exe
+E:\課\C#\Week04\Week04\obj\Debug\Week04.pdb

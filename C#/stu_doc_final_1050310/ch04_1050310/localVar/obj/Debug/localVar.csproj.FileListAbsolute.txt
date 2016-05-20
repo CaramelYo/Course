@@ -1,0 +1,6 @@
+c:\cs2013\ch03\localVar\bin\Debug\localVar.exe.config
+c:\cs2013\ch03\localVar\bin\Debug\localVar.exe
+c:\cs2013\ch03\localVar\bin\Debug\localVar.pdb
+c:\cs2013\ch03\localVar\obj\Debug\localVar.csprojResolveAssemblyReference.cache
+c:\cs2013\ch03\localVar\obj\Debug\localVar.exe
+c:\cs2013\ch03\localVar\obj\Debug\localVar.pdb
